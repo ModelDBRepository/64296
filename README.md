@@ -35,6 +35,7 @@ For more information contact Thomas Cleland (tac29@cornell.edu).
 
 ---
 
-Changelog
+## Changelog
 2022-05: Updated MOD files to compile with the latest NEURON releases where ion variables used as STATE cannot be declared as GLOBAL.
+
 2025-05-27 – Standardized to Markdown.
